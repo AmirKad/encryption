@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cae_Aes_Algor/1.0.0": {
+        "runtime": {
+          "Cae_Aes_Algor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cae_Aes_Algor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
